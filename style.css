@@ -1,0 +1,166 @@
+* {
+    font-family: 'Mukta', sans-serif;
+}
+
+.box1 {
+    position: absolute;
+    background-color: #F9F9F9;
+    height: 1110px;
+    width: 990px;
+    left: 80px;
+}
+
+.picture1 {
+    position: absolute;
+    top: 20px;
+    left: 410px;
+    border-radius: 100%;
+}
+
+.st1 {
+    position: absolute;
+    top: 3.5px;
+    left: 440px;
+    color: #A1A1A1;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+}
+
+.msg {
+    position: absolute;
+    top: 90px;
+    left: 343px;
+    color: #A1A1A1;
+    font-weight: 600;
+    font-size: 30px;
+    letter-spacing: 1.2px;
+    word-spacing: 2px;
+}
+
+.submsg {
+    position: absolute;
+    top: 140px;
+    left: 393px;
+    color: #A1A1A1;
+    letter-spacing: 1.2px;
+}
+
+.box2 {
+    position: absolute;
+    top: 250px;
+    left: 170px;
+    width: 650px;
+    height: 550px;
+    border: 1px solid orange;
+    border-radius: 5%;
+    background-color: #ffffff;
+}
+
+.picture2 {
+    position: absolute;
+    top: 220px;
+    left: 430px;
+    background-color: #ffffff;
+    padding: 2.5px;
+    border: 1px solid orange;
+    border-radius: 100%;
+    
+}
+
+.messageicon {
+    position: absolute;
+    top: 85px;
+    left: 281px;
+}
+
+.quote {
+    position: absolute;
+    top: 160px;
+    left: 80px;
+    color: #A1A1A1;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.share {
+    position: absolute;
+    top: 500px;
+    left: 410px;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 500;
+    color: #A1A1A1;
+}
+
+.fbicon {
+    position: absolute;
+    top: 519px;
+    left: 490px;
+}
+
+.instaicon {
+    position: absolute;
+    top: 519px;
+    left: 520px;
+}
+
+.twittericon {
+    position: absolute;
+    top: 519px;
+    left: 550px;
+}
+
+.note {
+    position: absolute;
+    top: 810px;
+    left: 200px;
+    font-size: small;
+    font-weight: bold;
+    color: #A1A1A1;
+    font-style: italic;
+}
+
+.miracles {
+    position: absolute;
+    top: 990px;
+    left: 100px;
+    font-size: 19px;
+    color: #A1A1A1;
+    font-weight: bold;
+}
+
+.profilepicture {
+    position: absolute;
+    top: 990px;
+    left: 700px;
+    border-radius: 100%;
+}
+
+.exp {
+    position: absolute;
+    top: 985px;
+    left: 730px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+
+.shareus {
+    position: absolute;
+    top: 1008px;
+    left: 740px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #63B4FC;
+}
+
+.last {
+    position: absolute;
+    top: 1090px;
+    left: 80px;
+    font-weight: bold;
+    font-size: small;
+    color: #A1A1A1;
+    word-spacing: 0.5px;
+}
